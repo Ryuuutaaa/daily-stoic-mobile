@@ -126,7 +126,7 @@ class DashboardView extends StatelessWidget {
                       return ListTile(
                         title: Text(filsuf.nama),
                         leading: const CircleAvatar(),
-                        subtitle: Text(filsuf.tahun),
+                        trailing: Text(filsuf.tahun),
                       );
                     },
                   ),
