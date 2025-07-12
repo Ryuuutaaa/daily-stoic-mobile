@@ -48,12 +48,19 @@ class DashboardView extends StatelessWidget {
                       ),
                     );
                   },
-                  child: Card(
-                    margin: const EdgeInsets.all(15),
-                    shadowColor: Colors.blueGrey,
-                    elevation: 5,
-                    child: const Center(
-                      child: Text("Reflections"),
+                  child: Container(
+                    height: 100,
+                    child: Card(
+                      color: Colors.lightBlue,
+                      margin: const EdgeInsets.all(15),
+                      shadowColor: Colors.blueGrey,
+                      elevation: 5,
+                      child: const Center(
+                        child: Text(
+                          "Reflections",
+                          style: TextStyle(color: Colors.white),
+                        ),
+                      ),
                     ),
                   ),
                 ),
@@ -66,12 +73,19 @@ class DashboardView extends StatelessWidget {
                       MaterialPageRoute(builder: (context) => QuotesView()),
                     );
                   },
-                  child: Card(
-                    margin: const EdgeInsets.all(15),
-                    shadowColor: Colors.blueGrey,
-                    elevation: 5,
-                    child: const Center(
-                      child: Text("Quotes"),
+                  child: Container(
+                    height: 100,
+                    child: Card(
+                      color: Colors.greenAccent,
+                      margin: const EdgeInsets.all(15),
+                      shadowColor: Colors.blueGrey,
+                      elevation: 5,
+                      child: const Center(
+                        child: Text(
+                          "Quotes",
+                          style: TextStyle(color: Colors.white),
+                        ),
+                      ),
                     ),
                   ),
                 ),
