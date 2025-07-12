@@ -63,6 +63,8 @@ flutter:
     - assets/datas/exercises.json
     - assets/datas/reflections.json
     - assets/datas/filsuf.json
+    - assets/photos/aurelius.jpg
+
 
 
   # An image asset can refer to one or more resolution-specific "variants", see

@@ -27,7 +27,12 @@ class QuotesView extends StatelessWidget {
               return Card(
                 margin: const EdgeInsets.all(15),
                 child: ListTile(
-                  title: Text(quote.text),
+                  title: Text(
+                    quote.text,
+                    style: TextStyle(
+                      fontStyle: FontStyle.italic,
+                    ),
+                  ),
                   subtitle: Padding(
                     padding: const EdgeInsets.only(top: 8),
                     child: Text(

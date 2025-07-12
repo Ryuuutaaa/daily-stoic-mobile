@@ -41,11 +41,19 @@ class DashboardView extends StatelessWidget {
                       children: const [
                         Padding(
                           padding: EdgeInsets.all(8.0),
-                          child: CircleAvatar(),
+                          child: CircleAvatar(
+                            radius: 50,
+                            backgroundImage:
+                                AssetImage('assets/photos/aurelius.jpg'),
+                          ),
                         ),
                         Padding(
                           padding: EdgeInsets.all(8.0),
-                          child: Text("Welcome to dashboard"),
+                          child: Text(
+                            "Welcome to dashboard",
+                            style: TextStyle(
+                                fontSize: 20, fontWeight: FontWeight.bold),
+                          ),
                         ),
                       ],
                     ),
