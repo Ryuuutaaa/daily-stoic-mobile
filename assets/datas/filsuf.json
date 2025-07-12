@@ -1,46 +1,44 @@
-{
-  "filsuf_stoic": [
-    {
-      "id": 1,
-      "nama": "Marcus Aurelius",
-      "tahun": "121-180 M",
-      "kata_bijak": "Anda memiliki kekuatan atas pikiran Anda — bukan peristiwa di luar. Sadarilah ini, dan Anda akan menemukan kekuatan.",
-      "status": "Kaisar Romawi"
-    },
-    {
-      "id": 2,
-      "nama": "Seneca",
-      "tahun": "4 SM - 65 M",
-      "kata_bijak": "Kebahagiaan adalah ketika apa yang Anda pikirkan, apa yang Anda katakan, dan apa yang Anda lakukan selaras.",
-      "status": "Negarawan dan Penulis"
-    },
-    {
-      "id": 3,
-      "nama": "Epictetus",
-      "tahun": "50-135 M",
-      "kata_bijak": "Bukan hal-hal yang terjadi yang mengganggu manusia, tetapi pandangan mereka tentang hal-hal itu.",
-      "status": "Bekas Budak yang Menjadi Filsuf"
-    },
-    {
-      "id": 4,
-      "nama": "Zeno of Citium",
-      "tahun": "334-262 SM",
-      "kata_bijak": "Kebahagiaan adalah aliran yang baik dari kehidupan.",
-      "status": "Pendiri Mazhab Stoic"
-    },
-    {
-      "id": 5,
-      "nama": "Cato the Younger",
-      "tahun": "95-46 SM",
-      "kata_bijak": "Aku mulai berbicara hanya ketika aku yakin bahwa apa yang akan kukatakan belum tentu lebih baik daripada diam.",
-      "status": "Senator Romawi"
-    },
-    {
-      "id": 6,
-      "nama": "Musonius Rufus",
-      "tahun": "20-101 M",
-      "kata_bijak": "Jika Anda ingin menjadi baik, pertama-tama yakini bahwa Anda buruk.",
-      "status": "Guru Stoic"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "nama": "Marcus Aurelius",
+    "tahun": "121-180 M",
+    "kata_bijak": "Anda memiliki kekuatan atas pikiran Anda — bukan peristiwa di luar. Sadarilah ini, dan Anda akan menemukan kekuatan.",
+    "status": "Kaisar Romawi"
+  },
+  {
+    "id": 2,
+    "nama": "Seneca",
+    "tahun": "4 SM - 65 M",
+    "kata_bijak": "Kebahagiaan adalah ketika apa yang Anda pikirkan, apa yang Anda katakan, dan apa yang Anda lakukan selaras.",
+    "status": "Negarawan dan Penulis"
+  },
+  {
+    "id": 3,
+    "nama": "Epictetus",
+    "tahun": "50-135 M",
+    "kata_bijak": "Bukan hal-hal yang terjadi yang mengganggu manusia, tetapi pandangan mereka tentang hal-hal itu.",
+    "status": "Bekas Budak yang Menjadi Filsuf"
+  },
+  {
+    "id": 4,
+    "nama": "Zeno of Citium",
+    "tahun": "334-262 SM",
+    "kata_bijak": "Kebahagiaan adalah aliran yang baik dari kehidupan.",
+    "status": "Pendiri Mazhab Stoic"
+  },
+  {
+    "id": 5,
+    "nama": "Cato the Younger",
+    "tahun": "95-46 SM",
+    "kata_bijak": "Aku mulai berbicara hanya ketika aku yakin bahwa apa yang akan kukatakan belum tentu lebih baik daripada diam.",
+    "status": "Senator Romawi"
+  },
+  {
+    "id": 6,
+    "nama": "Musonius Rufus",
+    "tahun": "20-101 M",
+    "kata_bijak": "Jika Anda ingin menjadi baik, pertama-tama yakini bahwa Anda buruk.",
+    "status": "Guru Stoic"
+  }
+]
